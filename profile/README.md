@@ -17,6 +17,7 @@ Limes Labs is an early open European AI project focused on open source, open wei
 | [compute-access-notes](https://github.com/Limes-Labs/compute-access-notes) | Active | [NOTES.md](https://github.com/Limes-Labs/compute-access-notes/blob/main/NOTES.md) — access research log |
 | [eurobench](https://github.com/Limes-Labs/eurobench) | Active | [SCOPE.md](https://github.com/Limes-Labs/eurobench/blob/main/SCOPE.md) + Italian task set |
 | [limes-nanogpt](https://github.com/Limes-Labs/limes-nanogpt) | Active | Minimal GPT trainer (nanoGPT lineage) for small EU experiments |
+| [limes-constitution](https://github.com/Limes-Labs/limes-constitution) | Active | [CONSTITUTION.md](https://github.com/Limes-Labs/limes-constitution/blob/main/CONSTITUTION.md) — charter for European open assistants |
 | [open-weight-tracker](https://github.com/Limes-Labs/open-weight-tracker) | Active | [TRACKER.md](https://github.com/Limes-Labs/open-weight-tracker/blob/main/TRACKER.md) |
 | [model-card-template](https://github.com/Limes-Labs/model-card-template) | Active | [TEMPLATE.md](https://github.com/Limes-Labs/model-card-template/blob/main/TEMPLATE.md) |
 
