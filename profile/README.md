@@ -2,35 +2,30 @@
 
 **We are not claiming capability yet. We are organizing capability.**
 
-Limes Labs is an early open European AI project focused on open source, open weight models, transparent safety, and digital sovereignty. We are building the public coordination layer behind useful European AI infrastructure.
+Limes Labs is an early open European AI project focused on open source, open weight models, transparent safety, and digital sovereignty.
 
 - Website: [limeslabs.eu](https://limeslabs.eu)
 - Join: [limeslabs.eu/join](https://limeslabs.eu/join)
 - Open questions: [limeslabs.eu/open-questions](https://limeslabs.eu/open-questions)
 - Contact: hello@limeslabs.eu
 
-## Current operating plan
-
-1. **Map** European AI infrastructure that already exists — EuroHPC, AI Factories, IT4LIA, universities, labs, funding, startups.
-2. **Outreach** to understand compute access, expert support, and institutional partnerships.
-3. **Build** a contributor network through our public join page.
-4. **Ship** the first open repositories: maps, benchmarks, trackers, templates, and compute notes.
-5. **Publish** what we contact, learn, succeed at, fail at, and still lack.
-
 ## Repositories
 
-| Repository | Purpose |
-| --- | --- |
-| [european-ai-infrastructure-map](https://github.com/Limes-Labs/european-ai-infrastructure-map) | Public map of compute, programs, labs, and startups |
-| [eurobench](https://github.com/Limes-Labs/eurobench) | European language benchmarks and institutional tasks |
-| [open-weight-tracker](https://github.com/Limes-Labs/open-weight-tracker) | Open weight model tracker for European use cases |
-| [model-card-template](https://github.com/Limes-Labs/model-card-template) | Model card and transparency templates |
-| [compute-access-notes](https://github.com/Limes-Labs/compute-access-notes) | Notes on EuroHPC, AI Factories, and IT4LIA access |
+| Repository | Status | Purpose |
+| --- | --- | --- |
+| [european-ai-infrastructure-map](https://github.com/Limes-Labs/european-ai-infrastructure-map) | Active | [MAP.md](https://github.com/Limes-Labs/european-ai-infrastructure-map/blob/main/MAP.md) — EuroHPC, AI Factories, IT4LIA |
+| [compute-access-notes](https://github.com/Limes-Labs/compute-access-notes) | Active | [NOTES.md](https://github.com/Limes-Labs/compute-access-notes/blob/main/NOTES.md) — access research log |
+| [eurobench](https://github.com/Limes-Labs/eurobench) | Active | [SCOPE.md](https://github.com/Limes-Labs/eurobench/blob/main/SCOPE.md) + Italian task set |
+| [limes-nanogpt](https://github.com/Limes-Labs/limes-nanogpt) | Active | Minimal GPT trainer (nanoGPT lineage) for small EU experiments |
+| [open-weight-tracker](https://github.com/Limes-Labs/open-weight-tracker) | Active | [TRACKER.md](https://github.com/Limes-Labs/open-weight-tracker/blob/main/TRACKER.md) |
+| [model-card-template](https://github.com/Limes-Labs/model-card-template) | Active | [TEMPLATE.md](https://github.com/Limes-Labs/model-card-template/blob/main/TEMPLATE.md) |
 
-## Who we need
+## Current operating plan
 
-Researchers, ML engineers, benchmark designers, dataset researchers, compute access researchers, legal and policy contributors, technical writers, open source maintainers, designers, founders, investors, students, institutions, and journalists.
-
-**We offer clear problems, public credit, reproducible work, and a path to real European impact.**
+1. Map European AI infrastructure
+2. Outreach to EuroHPC, AI Factories, IT4LIA
+3. Build contributor network via [limeslabs.eu/join](https://limeslabs.eu/join)
+4. Ship open repos with real content and reproducible experiments
+5. Publish what we contact, learn, succeed at, fail at, and still lack
 
 Join at [limeslabs.eu/join](https://limeslabs.eu/join)
